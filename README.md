@@ -23,7 +23,7 @@ Open html file on the browser to view project
 - index.js -the code that runs the files
 - index.css - styling html
 # Live Link to Project
-https://Speedycandle.github.io/independent-Project/
+https://Github.com/independent-Project/
 
 # Authors
 
